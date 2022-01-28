@@ -5,4 +5,6 @@ This repository mainly focuses on Git and using GitHub as its remote.
 This repository is built step by step in the tutorial.
 
 
-It now includes step for GitHub
+It now includes steps for GitHub.
+
+It is now being used to push branch to github
